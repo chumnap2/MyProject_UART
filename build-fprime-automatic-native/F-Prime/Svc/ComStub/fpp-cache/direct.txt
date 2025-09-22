@@ -1,2 +1,0 @@
-/home/chumnap/fprime/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp
-/home/chumnap/fprime/Svc/Interfaces/Com.fpp

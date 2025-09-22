@@ -1,3 +1,0 @@
-/home/chumnap/fprime/Svc/BufferAccumulator/Commands.fppi
-/home/chumnap/fprime/Svc/BufferAccumulator/Events.fppi
-/home/chumnap/fprime/Svc/BufferAccumulator/Telemetry.fppi

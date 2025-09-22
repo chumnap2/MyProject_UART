@@ -1,3 +1,0 @@
-/home/chumnap/fprime/Svc/SeqDispatcher/SeqDispatcherCommands.fppi
-/home/chumnap/fprime/Svc/SeqDispatcher/SeqDispatcherEvents.fppi
-/home/chumnap/fprime/Svc/SeqDispatcher/SeqDispatcherTelemetry.fppi

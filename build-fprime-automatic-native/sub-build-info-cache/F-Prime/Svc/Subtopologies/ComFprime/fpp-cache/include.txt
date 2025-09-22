@@ -1,2 +1,0 @@
-/home/chumnap/fprime/Svc/BufferManager/Events.fppi
-/home/chumnap/fprime/Svc/BufferManager/Telemetry.fppi

@@ -1,4 +1,0 @@
-SendBuffComponentAc.cpp
-SendBuffComponentAc.hpp
-SendBuff_ActiveStateEnumAc.cpp
-SendBuff_ActiveStateEnumAc.hpp

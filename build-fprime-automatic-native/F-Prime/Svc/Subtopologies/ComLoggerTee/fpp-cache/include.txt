@@ -1,3 +1,0 @@
-/home/chumnap/fprime/Svc/ComLogger/Commands.fppi
-/home/chumnap/fprime/Svc/ComLogger/Events.fppi
-/home/chumnap/fprime/Svc/Subtopologies/ComLoggerTee/subtopology-template.fppi

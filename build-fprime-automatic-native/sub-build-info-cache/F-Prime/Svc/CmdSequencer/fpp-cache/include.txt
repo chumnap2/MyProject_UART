@@ -1,3 +1,0 @@
-/home/chumnap/fprime/Svc/CmdSequencer/Commands.fppi
-/home/chumnap/fprime/Svc/CmdSequencer/Events.fppi
-/home/chumnap/fprime/Svc/CmdSequencer/Telemetry.fppi

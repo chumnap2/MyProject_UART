@@ -1,3 +1,0 @@
-/home/chumnap/fprime/Svc/FileDownlink/Commands.fppi
-/home/chumnap/fprime/Svc/FileDownlink/Events.fppi
-/home/chumnap/fprime/Svc/FileDownlink/Telemetry.fppi
